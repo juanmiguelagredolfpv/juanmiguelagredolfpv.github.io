@@ -16,7 +16,8 @@ h2{
 }
 
 p{ 
-color: white;
-font-family: "Arial";
-text-decoration: underline;
+ color: white;
+ font-family: "Arial";
+ text-decoration: underline;
+ letter-spacing: 0.5em;
 }
