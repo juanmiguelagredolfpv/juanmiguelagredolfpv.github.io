@@ -2,9 +2,21 @@ body {
  background: #332D2B;
 }
 h1{
-    font-weight: 700;
+    font-weight: 1000;
     font-family: "Arial";
     text-align: center;
     text-decoration: underline; 
     color: white; 
 }
+h2{
+ color: white;
+ text-align: left;
+ font-family: "Arial";
+ text-decoration: underline overline;
+{ 
+h3{
+ color: white;
+ text-align: right;
+ font-family: "Arial";
+ text-decoration: underline overline;
+{
