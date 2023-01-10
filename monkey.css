@@ -1,10 +1,10 @@
 body {
- background: black;
+ background: #332D2B;
 }
 h1{
     font-weight: 700;
     font-family: "Arial";
     text-align: center;
     text-decoration: underline; 
-    color: #332D2B ; 
+    color: white ; 
 }
