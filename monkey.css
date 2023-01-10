@@ -1,0 +1,10 @@
+body {
+ background: black;
+}
+h1{
+    font-weight: 700;
+    font-family: "Arial";
+    text-align: center;
+    text-decoration: underline; 
+    color: white; 
+}
