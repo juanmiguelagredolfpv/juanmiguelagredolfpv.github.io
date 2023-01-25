@@ -1,0 +1,23 @@
+body {
+ background: #353535;
+}
+h1{
+    font-weight: 1000;
+    font-family: "Arial";
+    text-align: center;
+    text-decoration: underline; 
+    color: white; 
+}
+h2{
+ color: white;
+ text-align: left;
+ font-family: "Arial";
+ text-decoration: underline overline;
+}
+
+p{ 
+ color: white;
+ font-family: "Arial";
+ text-decoration: underline;
+ letter-spacing: 0.5em;
+}
