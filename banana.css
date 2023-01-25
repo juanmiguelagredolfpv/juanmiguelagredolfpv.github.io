@@ -9,11 +9,19 @@ h1{
     color: white; 
 }
 h2{
- color: white;
- text-align: left;
- font-family: "Arial";
- text-decoration: underline overline;
+    text-align: left;
+    font-family: "Arial";
+    text-decoration: underline overline;
+    color: #f73434;
 }
+
+h3{
+    text-align: left;
+    font-family: "Arial";
+    text-decoration: underline overline;
+    color: white;
+}
+
 
 p{ 
  color: white;
