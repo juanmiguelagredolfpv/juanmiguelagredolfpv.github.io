@@ -4,7 +4,7 @@
 		<meta charset="utf-8" />
 		<h1>SNT</h1>
                 <h2>Chap1: Python<h2>
-        <link rel="stylesheet" href="monkey.css">  
+        <link rel="stylesheet" href="banana.css">  
 	</head>
 	<body>
 
