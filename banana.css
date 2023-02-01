@@ -55,14 +55,15 @@ p{
  text-decoration: underline;
  
 }
-div{
+.item{
  width:1000px;
  height:58200px;
- background-color: black;
- -webkit-transition: width 2s
+ background: black;
+ transition: background-color 2s;
 
 } 
 
-div:hover{
- backround-color:rgba(00, 000, 00, 0.0);
+.item:hover{
+ backround:rgba(00, 000, 00, 0.0);
+ 
 } 
