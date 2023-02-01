@@ -55,3 +55,15 @@ p{
  text-decoration: underline;
  
 }
+div{
+ width:200px;
+ height:200px;
+ background-color: black;
+ -webkit-transition: width 2s
+
+} 
+
+div:hover{
+ width: 400px;
+ backround-color:rgba(00, 000, 00, 0.0);
+} 
