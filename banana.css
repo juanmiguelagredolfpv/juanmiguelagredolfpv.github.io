@@ -58,12 +58,12 @@ p{
 .item{
  width:1000px;
  height:58200px;
- background: black;
+ color: black;
  transition: background-color 2s;
 
 } 
 
 .item:hover{
- backround:rgba(00, 000, 00, 0.0);
+ color:rgba(34, 56, 91, 0.0);
  
 } 
